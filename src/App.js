@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 import React from 'react'
-
+//This is the app module.
 function App() {
   const[thingsArray,setThingsArray] = React.useState(["Thing 1", "Thing 2"])
 function handleClick(){
